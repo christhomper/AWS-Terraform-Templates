@@ -20,8 +20,9 @@ Follow these steps to deploy the infrastructure:
           cd AWS-Terraform-Templates
 
      4. Change directory once more into either Amazon Linux 2, Ubuntu, or Windows:
-          example: run this command to change directory into Amazon Linux 2: cd "Amazon Linux 2"
-          note: parentheses are important around the file you choose in this step
+          example: run this command to change directory into Amazon Linux 2: 
+               cd "Amazon Linux 2"
+               note: parentheses are important around the file you choose in this step
    
      5. Initialize Terraform, run command:
           terraform init
