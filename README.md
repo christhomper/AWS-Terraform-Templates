@@ -14,8 +14,8 @@ Follow these steps to deploy the infrastructure:
      1. From your terminal clone the repository, run:
           git clone git@github.com:christhomper/AWS-Terraform-Templates.git
    
-     2. Change directory from your terminal into the repo, run:
-          cd AWS-Terraform-Templates
+     cd AWS-Terraform-Templates
+
    
      3. Change directory once more into either Amazon Linux 2, Ubuntu, or Windows
           example, run this command to change directory into Amazon Linux 2: cd "Amazon Linux 2"
