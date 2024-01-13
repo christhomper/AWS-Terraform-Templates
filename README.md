@@ -12,7 +12,7 @@ Before you begin, make sure you have the following:
 Follow these steps to deploy the infrastructure:
 
 1. Clone the repository:
-     git clone followed by the ssh of the repo
+     git clone git@github.com:christhomper/AWS-Terraform-Templates.git
 2. cd into the repo
 3. Initialize Terraform:
      terraform init
