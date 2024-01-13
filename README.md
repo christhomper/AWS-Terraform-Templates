@@ -11,26 +11,26 @@ Before you begin, make sure you have the following:
 ## Usage
 Follow these steps to deploy the infrastructure:
 
-###1. Clone the repository:
+1. Clone the repository:
      git clone git@github.com:christhomper/AWS-Terraform-Templates.git
    
-###2. Change directory from your terminal into the repo
+2. Change directory from your terminal into the repo
      cd AWS-Terraform-Templates
    
-###3. Change directory once more into either Amazon Linux 2, Ubuntu, or Windows
+3. Change directory once more into either Amazon Linux 2, Ubuntu, or Windows
      example: cd "Amazon Linux 2"
      note: parentheses are important around the file you choose in this step
    
-###4. Initialize Terraform:
+4. Initialize Terraform:
      terraform init
    
-###5. Generate and review Terraform execution plan:
+5. Generate and review Terraform execution plan:
      terraform plan
    
-###6. Apply the Terraform configuration:
+6. Apply the Terraform configuration:
      terraform apply
     
-###7. To destroy the created resources and clean up the environment, run:
+7. To destroy the created resources and clean up the environment, run:
      terraform destroy
    
 Note: Ensure that you review and understand the Terraform execution plan before applying changes to your infrastructure.
