@@ -1,4 +1,4 @@
-# AWS-Terraform-Templates
+# Terraform-Templates
 
 This repository contains Terraform code to provision a basic AWS infrastructure with a Virtual Private Cloud (VPC), Subnet, Internet Gateway, Route Table, Security Group, Launch Configuration, and Auto Scaling Group.
 
